@@ -1,0 +1,19 @@
+{
+    "name"         : "node-red-contrib-debug-value",
+    "version"      : "0.0.1",
+    "description"  : "On screen value debugger for Node-RED",
+    "author"       : "Valerio Vaccaro <valerio.vaccaro@gmail.com>",
+    "dependencies": { 
+    
+    },
+    "repository"   : { 
+         "type"    : "git",
+         "url"     : "https://github.com/valerio-vaccaro/node-red-contrib-debug-value"
+    },
+    "keywords"     : [ "node-red", "debug", "value", "message" ],
+    "node-red"     : {
+        "nodes": {
+            "debugValue": "debug_value/debugValue.js"
+        }
+    }
+}
