@@ -1,4 +1,6 @@
 # node-red-debug-value
+[![Build status][travis-image]][travis-url] [![NPM version][npm-image]][npm-url]
+
 A node for [Node-RED](http://nodered.org) useful for debug messages.
 
 ## Install
